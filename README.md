@@ -1,4 +1,6 @@
- Copyright (c) 2026 Angelo Llanera Ranille - All rights reserved 
+ Copyright (c) 2026 Angelo Llanera Ranille - All rights reserved
+
+ 
 [![.github/workflows/deploy.yaml](https://github.com/spdx/license-list-XML/actions/workflows/deploy.yaml/badge.svg)](https://github.com/spdx/license-list-XML/actions/workflows/deploy.yaml)[![.github/workflows/validate.yaml](https://github.com/spdx/license-list-XML/actions/workflows/validate.yaml/badge.svg)](https://github.com/spdx/license-list-XML/actions/workflows/validate.yaml)
 
 This repository contains the XML source and schema files used to generate the authoritative, supported SPDX list filecc formats, including the web pages you see at [spdx.org/licenses](https://spdx.org/licenses/) and other generated data formats found in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data).
