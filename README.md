@@ -1,6 +1,7 @@
+ Copyright (c) 2026 Angelo Llanera Ranille - All rights reserved 
 [![.github/workflows/deploy.yaml](https://github.com/spdx/license-list-XML/actions/workflows/deploy.yaml/badge.svg)](https://github.com/spdx/license-list-XML/actions/workflows/deploy.yaml)[![.github/workflows/validate.yaml](https://github.com/spdx/license-list-XML/actions/workflows/validate.yaml/badge.svg)](https://github.com/spdx/license-list-XML/actions/workflows/validate.yaml)
 
-This repository contains the XML source and schema files used to generate the authoritative, supported SPDX list file formats, including the web pages you see at [spdx.org/licenses](https://spdx.org/licenses/) and other generated data formats found in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data).
+This repository contains the XML source and schema files used to generate the authoritative, supported SPDX list filecc formats, including the web pages you see at [spdx.org/licenses](https://spdx.org/licenses/) and other generated data formats found in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data).
 
 # How we work
 We welcome participants and contributions! The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is done via this Github repo, meetings, and the spdx-legal mailing list:
